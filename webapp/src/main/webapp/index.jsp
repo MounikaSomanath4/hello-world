@@ -1,7 +1,7 @@
-<h1> Hello, Welcome to Batch 8  </h1>
+<h1> Hello, Welcome to Jenkins  </h1>
 
-<h2> Good Morning </h2>
+<h2> This is tomcat server deployed by jenkins </h2>
 
-<h3>  Diamond   </h3>
+<h3>  First project  </h3>
 
 
