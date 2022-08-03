@@ -2,6 +2,6 @@
 
 <h2> This is a demo App using jenkins </h2>
 
-<h3>  Pipeline-When  </h3>
+<h3>  downstream-pipeline  </h3>
 
 
